@@ -2,3 +2,5 @@ here is some text
 for this
 tutorial
 on git and github
+
+here is some more text for you reading pleasure
